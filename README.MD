@@ -17,11 +17,11 @@ Mi nombre es Rosa Ileana Jalinas Hernández y estoy encantada de poder participa
 
 Soy [especifica tu profesión o área de experiencia] y he trabajado en [menciona tus logros o experiencia relevante]. Estoy apasionada por [Mi pasión principal relacionada con mi trabajo es fomentar la creatividad y el amor por el aprendizaje en mis alumnos. Creo firmemente en el poder transformador de la educación y cómo puede abrir puertas y despertar el potencial único de cada estudiante.
 
-Me apasiona inspirar a mis alumnos a explorar, cuestionar y descubrir el mundo que los rodea. Busco constantemente formas innovadoras de presentar los contenidos de manera atractiva y significativa, utilizando recursos visuales, actividades prácticas y experiencias enriquecedoras.]. 
+Me apasiona inspirar a mis alumnos a explorar, cuestionar y descubrir el mundo que los rodea. Busco constantemente formas innovadoras de presentar los contenidos de manera atractiva y significativa, utilizando recursos visuales, actividades prácticas y experiencias enriquecedoras. 
 
 ## Objetivos
 
-Durante esta presentación, espero poder [Mi objetivo es dominar el uso de GitHub como plataforma de control de versiones y colaboración en proyectos de desarrollo de software. GitHub es una herramienta poderosa que permite a los equipos de trabajo gestionar de manera eficiente los cambios en el código, facilitar la colaboración entre desarrolladores y mantener un historial completo y organizado de todas las modificaciones realizadas en un proyecto.
+Durante esta presentación, espero poder Mi objetivo es dominar el uso de GitHub como plataforma de control de versiones y colaboración en proyectos de desarrollo de software. GitHub es una herramienta poderosa que permite a los equipos de trabajo gestionar de manera eficiente los cambios en el código, facilitar la colaboración entre desarrolladores y mantener un historial completo y organizado de todas las modificaciones realizadas en un proyecto.
 
 Para lograr este objetivo, me enfocaré en aprender los conceptos fundamentales de Git y GitHub, incluyendo la creación y clonación de repositorios, la gestión de ramas y fusiones, y la realización de solicitudes de extracción (pull requests) para revisar y aprobar cambios en el código. También exploraré características avanzadas de GitHub, como el uso de problemas (issues) y proyectos para el seguimiento y la organización del trabajo.
 
@@ -37,7 +37,7 @@ Algunos de los temas que me apasionan y en los que me he especializado incluyen:
 
 ## Cierre
 
-Gracias por darme la oportunidad de presentarme. Estoy ansiosa por interactuar con todos ustedes y compartir ideas en este evento. Si tienen alguna pregunta o desean ponerse en contacto conmigo, no duden en enviarme un correo electrónico a [correo electrónico] o buscarme en [redes sociales].
+Gracias por darme la oportunidad de presentarme. Estoy ansiosa por interactuar con todos ustedes y compartir ideas en este evento. Si tienen alguna pregunta o desean ponerse en contacto conmigo, no duden en enviarme un correo electrónico a prof.rosajalinas@gmailcom
 
 ¡Espero disfrutar de una experiencia enriquecedora con todos ustedes!
 
