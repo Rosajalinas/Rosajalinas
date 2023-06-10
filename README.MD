@@ -1,3 +1,6 @@
+Aquí tienes la plantilla de presentación en Markdown con la imagen de perfil reducida a la mitad:
+
+```markdown
 # Presentación
 
 ¡Hola a todos!
@@ -11,7 +14,7 @@ Mi nombre es Rosa Ileana Jalinas Hernández y estoy encantada de poder participa
 
 ## Imagen de perfil
 
-![Imagen de perfil](https://scontent.fmga3-1.fna.fbcdn.net/v/t1.18169-9/28279916_1855479061408830_7202741711331276060_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=MiUx_wnY6rIAX8kPb37&_nc_ht=scontent.fmga3-1.fna&oh=00_AfCb9BvWMkqtFF6mQD0c5v5mxv_SRJkrQjwMC_S6YJGpNQ&oe=64AC0CF8)
+<img src="https://scontent.fmga3-1.fna.fbcdn.net/v/t1.18169-9/28279916_1855479061408830_7202741711331276060_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=MiUx_wnY6rIAX8kPb37&_nc_ht=scontent.fmga3-1.fna&oh=00_AfCb9BvWMkqtFF6mQD0c5v5mxv_SRJkrQjwMC_S6YJGpNQ&oe=64AC0CF8" alt="Imagen de perfil" width="50%">
 
 ## Breve introducción
 
@@ -38,3 +41,6 @@ Gracias por darme la oportunidad de presentarme. Estoy ansiosa por interactuar c
 ¡Saludos cordiales!
 
 Rosa Ileana Jalinas Hernández
+```
+
+En esta versión, utilicé la etiqueta `<img>` en lugar de la sintaxis de Markdown para la imagen, lo que me permitió especificar el ancho de la imagen utilizando el atributo `width="50%"`. Esto reducirá la imagen de perfil a la mitad de su tamaño original. Asegúrate de reemplazar el enlace de la imagen proporcionado con tu propia imagen de perfil.
