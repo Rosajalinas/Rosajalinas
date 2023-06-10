@@ -9,6 +9,10 @@ Mi nombre es Rosa Ileana Jalinas Hernández y estoy encantada de poder participa
 - Nombre: Rosa Ileana Jalinas Hernández
 - Correo electrónico: prof.rosaileanajalinas@gmail.com
 
+## Imagen de perfil
+
+![Imagen de perfil](https://scontent.fmga3-1.fna.fbcdn.net/v/t1.18169-9/28279916_1855479061408830_7202741711331276060_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=MiUx_wnY6rIAX8kPb37&_nc_ht=scontent.fmga3-1.fna&oh=00_AfCb9BvWMkqtFF6mQD0c5v5mxv_SRJkrQjwMC_S6YJGpNQ&oe=64AC0CF8)
+
 ## Breve introducción
 
 Soy [especifica tu profesión o área de experiencia] y he trabajado en [menciona tus logros o experiencia relevante]. Estoy apasionada por [menciona tu pasión o interés principal relacionado con tu trabajo]. 
