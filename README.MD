@@ -15,7 +15,9 @@ Mi nombre es Rosa Ileana Jalinas Hernández y estoy encantada de poder participa
 
 ## Breve introducción
 
-Soy [especifica tu profesión o área de experiencia] y he trabajado en [menciona tus logros o experiencia relevante]. Estoy apasionada por [menciona tu pasión o interés principal relacionado con tu trabajo]. 
+Soy [especifica tu profesión o área de experiencia] y he trabajado en [menciona tus logros o experiencia relevante]. Estoy apasionada por [Mi pasión principal relacionada con mi trabajo es fomentar la creatividad y el amor por el aprendizaje en mis alumnos. Creo firmemente en el poder transformador de la educación y cómo puede abrir puertas y despertar el potencial único de cada estudiante.
+
+Me apasiona inspirar a mis alumnos a explorar, cuestionar y descubrir el mundo que los rodea. Busco constantemente formas innovadoras de presentar los contenidos de manera atractiva y significativa, utilizando recursos visuales, actividades prácticas y experiencias enriquecedoras.]. 
 
 ## Objetivos
 
