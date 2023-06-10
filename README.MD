@@ -19,7 +19,11 @@ Soy [especifica tu profesión o área de experiencia] y he trabajado en [mencion
 
 ## Objetivos
 
-Durante esta presentación, espero poder [menciona tus objetivos principales]. Estoy emocionada de compartir mi conocimiento y experiencia con todos ustedes y aprender de los demás participantes en este evento.
+Durante esta presentación, espero poder [Mi objetivo es dominar el uso de GitHub como plataforma de control de versiones y colaboración en proyectos de desarrollo de software. GitHub es una herramienta poderosa que permite a los equipos de trabajo gestionar de manera eficiente los cambios en el código, facilitar la colaboración entre desarrolladores y mantener un historial completo y organizado de todas las modificaciones realizadas en un proyecto.
+
+Para lograr este objetivo, me enfocaré en aprender los conceptos fundamentales de Git y GitHub, incluyendo la creación y clonación de repositorios, la gestión de ramas y fusiones, y la realización de solicitudes de extracción (pull requests) para revisar y aprobar cambios en el código. También exploraré características avanzadas de GitHub, como el uso de problemas (issues) y proyectos para el seguimiento y la organización del trabajo.
+
+Además, buscaré oportunidades para colaborar en proyectos de código abierto en GitHub, ya sea contribuyendo con código, informando problemas o realizando mejoras en la documentación. Esto me permitirá adquirir experiencia práctica y familiarizarme con los flujos de trabajo comunes en la comunidad de desarrollo.]. Estoy emocionada de compartir mi conocimiento y experiencia con todos ustedes y aprender de los demás participantes en este evento.
 
 ## Temas de interés
 
