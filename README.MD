@@ -1,6 +1,3 @@
-Aquí tienes la plantilla de presentación en Markdown con la imagen de perfil reducida a la mitad:
-
-```markdown
 # Presentación
 
 ¡Hola a todos!
@@ -41,6 +38,3 @@ Gracias por darme la oportunidad de presentarme. Estoy ansiosa por interactuar c
 ¡Saludos cordiales!
 
 Rosa Ileana Jalinas Hernández
-```
-
-En esta versión, utilicé la etiqueta `<img>` en lugar de la sintaxis de Markdown para la imagen, lo que me permitió especificar el ancho de la imagen utilizando el atributo `width="50%"`. Esto reducirá la imagen de perfil a la mitad de su tamaño original. Asegúrate de reemplazar el enlace de la imagen proporcionado con tu propia imagen de perfil.
